@@ -1,9 +1,9 @@
 // chapter_exe.cpp : コンソール アプリケーションのエントリ ポイントを定義します。
 //
 
+#include <stdint.h>
 #include "source.h"
 #include "faw.h"
-#include <stdint.h>
 
 #ifndef _WIN32
 #define sprintf_s sprintf
